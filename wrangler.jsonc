@@ -4,7 +4,7 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "d1-form1-test-1",
+	"name": "d1-form1-test",
 	"main": "src/index.ts",
 	"compatibility_date": "2025-03-03",
     "d1_databases": [
